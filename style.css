@@ -1,0 +1,143 @@
+@font-face {
+    font-family: edward;
+    src: url(fonts/Edward.eot),
+        url(fonts/Edward.woff)
+}
+
+#header {
+    background-color: #cbe4f9;
+    width: 100%;
+    height: 22%;
+}
+
+#head2 {
+    float: right;
+    font-size: 20px;
+    width: 20%;
+    color: navy;
+}
+
+#title {
+    font-size: 108px;
+    font-weight: bold;
+    float: left;
+    width: 70%;
+    text-align: center;
+    color: navy;
+}
+
+#footer {
+
+    margin-bottom: 0;
+    background-color: #cbe4f9;
+    width: 100%;
+    height: 1%;
+}
+
+#right {
+    float: left;
+    background-color: #cbe4f9;
+    width: 20%;
+    height: 80%;
+}
+
+#main {
+    display: block;
+    overflow: hidden;
+    background-color: #b6c7dd;
+    width: 80%;
+    height: 60.4%;
+    display: flex;
+    border-color: #cbe4f9;
+}
+
+body {
+    background-color: #cbe4f9;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    border-color: #cbe4f9;
+}
+
+.list {
+    margin-left: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: 26px;
+    border-radius: 0px 25px 0px 25px;
+    padding-top: 10%;
+
+}
+
+.Exp {
+    background-color: rgb(51, 255, 99);
+}
+
+#pro {
+    background-color: #cdf5f6;
+}
+
+#Edu {
+    background-color: #eff9da;
+}
+
+#Exp {
+    background-color: #f9d8d6;
+
+}
+
+#Cer {
+    background-color: #f9ebdf;
+}
+
+#Fav {
+    background-color: #d6cdea;
+}
+
+#container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+}
+
+.txt,
+li {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+span {
+    font-weight: bold;
+}
+
+.span {
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+#top {
+    position: absolute;
+}
+
+#down {
+    margin-top: 150px;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+}
+
+.box {
+    width: 220px;
+    height: 150px;
+}
